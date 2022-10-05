@@ -1,7 +1,7 @@
 /*  styles.css */
 
 body {
-    background-color: rgb(194, 231, 255); 
+    background-color: rgb(210, 235, 252); 
     color: rgba(52, 50, 50, 0.938);
     font-family: 'Times New Roman', Times, serif;
 }
@@ -12,9 +12,18 @@ p {
 }
 
 .index_title{
-    width: 500px;
-    background-color: bisque;
+    background-image: linear-gradient(rgb(233, 170, 252),rgb(143, 252, 176));
+    text-align: center;
+    padding: 20px;
+   
 }
+
+.title{
+    font-size: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
 
 ol {
     color: rgb(227, 47, 143);
