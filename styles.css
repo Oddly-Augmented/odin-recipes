@@ -1,4 +1,5 @@
 /*  styles.css */
+
 body {
     background-color: rgb(194, 231, 255); 
     color: rgba(52, 50, 50, 0.938);
@@ -14,8 +15,8 @@ h1 {
     color: rgb(33, 2, 62);
     font-size: 45px;
 }
+
 h2 { 
-    color: rgb(33, 2, 62);
+    color: rgb(62, 2, 49);
     font-size: 32px;
-    
 }
