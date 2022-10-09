@@ -15,14 +15,28 @@ p {
     background-image: linear-gradient(rgb(233, 170, 252),rgb(143, 252, 176));
     text-align: center;
     padding: 20px;
+    border-width: 7px;
+    border-style: groove;
+    border-color: rgb(10, 18, 106);
+
    
 }
 
-.title{
+.sub_title{
+    background-image: linear-gradient(rgb(131, 138, 241),rgb(105, 248, 241));
+    text-align: center;
+    padding: 20px;
+}
+
+.index_title_text{
     font-size: 100px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.sub_title_font{
+    font-size: 65px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 
 ol {
